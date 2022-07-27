@@ -1,6 +1,6 @@
 <img src="./assets/powered-by-burstjs.320px.png" alt="burstjs" width="320" align="middle" />
 
-# burstjs-examples
+# signumjs-examples
 
 This is a collection of examples for [burstjs](https://github.com/burst-apps-team/phoenix/blob/develop/lib/README.md)
 
