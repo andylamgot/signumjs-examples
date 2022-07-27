@@ -15,7 +15,7 @@ Please, consider the [Online Documentation](https://github.com/signum-network/ph
 First, you need to clone the remote repository to your machine, doing
 
 ```
-git clone https://github.com/ohager/burstjs-examples.git`
+git clone https://github.com/andylamgot/signumjs-examples.git`
 ```
 
 There are different scenarios of how to use burstjs available. 
