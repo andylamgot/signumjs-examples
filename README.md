@@ -2,7 +2,7 @@
 
 # signumjs-examples
 
-This is a collection of examples for [burstjs](https://github.com/burst-apps-team/phoenix/blob/develop/lib/README.md)
+This is a collection of examples for [signums](https://github.com/burst-apps-team/phoenix/blob/develop/lib/README.md)
 
 Please, consider the [Online Documentation](https://burst-apps-team.github.io/phoenix/) also
 
