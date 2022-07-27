@@ -1,4 +1,4 @@
-<img src="./assets/powered-by-burstjs.320px.png" alt="burstjs" width="320" align="middle" />
+<img src="./assets/signumjs.png" alt="burstjs" width="320" align="middle" />
 
 # signumjs-examples
 
